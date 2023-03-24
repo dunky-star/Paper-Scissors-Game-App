@@ -1,1 +1,1 @@
-# Paper-Scissors-Game-App
+# Paper Scissors Game App
